@@ -6,14 +6,6 @@ import java.util.*;
 import javax.swing.*;
 import java.io.*;
 
-/*\ I have to add these options
-    Add Account
-    Delete Account
-    Edit Account
-    Save to File
-    Exit
-    
-*/
 public class Admin extends JFrame implements ActionListener
 {
     
